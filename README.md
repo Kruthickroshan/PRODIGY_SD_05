@@ -32,4 +32,3 @@ Create a program that extracts product information, such as names, prices, and r
 ## Screenshots
 (![Screenshot 2024-09-19 170238](https://github.com/user-attachments/assets/499524d2-8e62-429c-a74d-9507c2e9aa18)
 )
-)
